@@ -42,7 +42,9 @@ The total loss for each epoch is accumulated and stored in a list. This helps in
 
 Once training is complete, the loss values are plotted using Matplotlib. The graph shows how the loss decreases over epochs, indicating that the model is learning effectively.
 
-output of the task 
-
 
 Overall, this project provides a simple introduction to deep learning using PyTorch. It covers key concepts such as dataset loading, neural network design, training loops, loss functions, and performance visualization. This forms the foundation for building more complex models in real-world applications.
+
+ouput of the task 
+
+
