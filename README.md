@@ -47,4 +47,4 @@ Overall, this project provides a simple introduction to deep learning using PyTo
 
 ouput of the task 
 
-
+<img width="1160" height="848" alt="Image" src="https://github.com/user-attachments/assets/357f4779-2fd9-49c1-80b5-1a4ae6203704" />
